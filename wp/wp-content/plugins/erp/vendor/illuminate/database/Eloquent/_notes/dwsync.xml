@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Builder.php" server="ftp.ezyro.com//htdocs/" local="131345022289868834" remote="131344430400000000" Dst="0" />
+<file name="Collection.php" server="ftp.ezyro.com//htdocs/" local="131345022292210882" remote="131344430400000000" Dst="0" />
+<file name="MassAssignmentException.php" server="ftp.ezyro.com//htdocs/" local="131345022294994270" remote="131344430400000000" Dst="0" />
+<file name="ModelNotFoundException.php" server="ftp.ezyro.com//htdocs/" local="131345022304666186" remote="131344430400000000" Dst="0" />
+<file name="QueueEntityResolver.php" server="ftp.ezyro.com//htdocs/" local="131345022307683456" remote="131344430400000000" Dst="0" />
+<file name="Model.php" server="ftp.ezyro.com//htdocs/" local="131345022313752626" remote="131344430400000000" Dst="0" />
+<file name="ScopeInterface.php" server="ftp.ezyro.com//htdocs/" local="131345022377710051" remote="131344430400000000" Dst="0" />
+<file name="SoftDeletes.php" server="ftp.ezyro.com//htdocs/" local="131345022389873117" remote="131344430400000000" Dst="0" />
+<file name="SoftDeletingScope.php" server="ftp.ezyro.com//htdocs/" local="131345022390553555" remote="131344430400000000" Dst="0" />
+</dwsync>

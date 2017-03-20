@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="actions-filters.php" server="ftp.ezyro.com//htdocs/" local="131345020460263570" remote="131344430400000000" Dst="0" />
+<file name="class-admin-menu.php" server="ftp.ezyro.com//htdocs/" local="131345020471501020" remote="131344430400000000" Dst="0" />
+<file name="class-ajax.php" server="ftp.ezyro.com//htdocs/" local="131345020477740261" remote="131344430400000000" Dst="0" />
+<file name="class-customer-list-table.php" server="ftp.ezyro.com//htdocs/" local="131345020479786603" remote="131344430400000000" Dst="0" />
+<file name="class-customer-transaction-list-table.php" server="ftp.ezyro.com//htdocs/" local="131345020484980031" remote="131344430400000000" Dst="0" />
+<file name="class-email-send-invoice.php" server="ftp.ezyro.com//htdocs/" local="131345020490553850" remote="131344430400000000" Dst="0" />
+<file name="class-expense-transaction-list-table.php" server="ftp.ezyro.com//htdocs/" local="131345020493790993" remote="131344430400000000" Dst="0" />
+<file name="class-form-handler.php" server="ftp.ezyro.com//htdocs/" local="131345020502282697" remote="131344430400000000" Dst="0" />
+<file name="class-install.php" server="ftp.ezyro.com//htdocs/" local="131345020505773114" remote="131344430400000000" Dst="0" />
+<file name="class-journal-list-table.php" server="ftp.ezyro.com//htdocs/" local="131345020507920545" remote="131344430400000000" Dst="0" />
+<file name="class-journal-transactions-list-table.php" server="ftp.ezyro.com//htdocs/" local="131345020515340886" remote="131344430400000000" Dst="0" />
+<file name="class-sales-transaction-list-table.php" server="ftp.ezyro.com//htdocs/" local="131345020520174490" remote="131344430400000000" Dst="0" />
+<file name="class-log.php" server="ftp.ezyro.com//htdocs/" local="131345020521087889" remote="131344430400000000" Dst="0" />
+<file name="class-settings.php" server="ftp.ezyro.com//htdocs/" local="131345020529642552" remote="131344430400000000" Dst="0" />
+<file name="class-user-profile.php" server="ftp.ezyro.com//htdocs/" local="131345020534491828" remote="131344430400000000" Dst="0" />
+<file name="class-transaction-list-table.php" server="ftp.ezyro.com//htdocs/" local="131345020535552531" remote="131344430400000000" Dst="0" />
+<file name="class-vendor-list-table.php" server="ftp.ezyro.com//htdocs/" local="131345020544023142" remote="131344430400000000" Dst="0" />
+<file name="class-vendor-transaction-list-table.php" server="ftp.ezyro.com//htdocs/" local="131345020546799989" remote="131344430400000000" Dst="0" />
+<file name="class-walker-chart-of-accounts.php" server="ftp.ezyro.com//htdocs/" local="131345020548756279" remote="131344430400000000" Dst="0" />
+<file name="function-capabilities.php" server="ftp.ezyro.com//htdocs/" local="131345020560664188" remote="131344430400000000" Dst="0" />
+<file name="functions-bulk-action.php" server="ftp.ezyro.com//htdocs/" local="131345020560969389" remote="131344430400000000" Dst="0" />
+<file name="functions-chart.php" server="ftp.ezyro.com//htdocs/" local="131345020573070105" remote="131344430400000000" Dst="0" />
+<file name="functions-html.php" server="ftp.ezyro.com//htdocs/" local="131345020573360246" remote="131344430400000000" Dst="0" />
+<file name="functions-dashboard.php" server="ftp.ezyro.com//htdocs/" local="131345020576932617" remote="131344430400000000" Dst="0" />
+<file name="functions-invoice.php" server="ftp.ezyro.com//htdocs/" local="131345020588785520" remote="131344430400000000" Dst="0" />
+<file name="functions-tax.php" server="ftp.ezyro.com//htdocs/" local="131345020590566732" remote="131344430400000000" Dst="0" />
+<file name="functions-reporting.php" server="ftp.ezyro.com//htdocs/" local="131345020591802526" remote="131344430400000000" Dst="0" />
+<file name="functions-url.php" server="ftp.ezyro.com//htdocs/" local="131345020603785464" remote="131344430400000000" Dst="0" />
+<file name="functions.php" server="ftp.ezyro.com//htdocs/" local="131345020607412886" remote="131344430400000000" Dst="0" />
+<file name="functions-transaction.php" server="ftp.ezyro.com//htdocs/" local="131345020608408552" remote="131344430400000000" Dst="0" />
+</dwsync>

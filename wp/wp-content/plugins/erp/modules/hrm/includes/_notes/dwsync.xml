@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="actions-filters.php" server="ftp.ezyro.com//htdocs/" local="131345021293523502" remote="131344430400000000" Dst="0" />
+<file name="class-announcement.php" server="ftp.ezyro.com//htdocs/" local="131345021311760813" remote="131344430400000000" Dst="0" />
+<file name="class-ajax.php" server="ftp.ezyro.com//htdocs/" local="131345021313717098" remote="131344430400000000" Dst="0" />
+<file name="class-department-list-table.php" server="ftp.ezyro.com//htdocs/" local="131345021316769133" remote="131344430400000000" Dst="0" />
+<file name="class-department.php" server="ftp.ezyro.com//htdocs/" local="131345021325670036" remote="131344430400000000" Dst="0" />
+<file name="class-designation-list-table.php" server="ftp.ezyro.com//htdocs/" local="131345021329042261" remote="131344430400000000" Dst="0" />
+<file name="class-designation.php" server="ftp.ezyro.com//htdocs/" local="131345021330598303" remote="131344430400000000" Dst="0" />
+<file name="class-emails.php" server="ftp.ezyro.com//htdocs/" local="131345021337691162" remote="131344430400000000" Dst="0" />
+<file name="class-employee-list-table.php" server="ftp.ezyro.com//htdocs/" local="131345021343610097" remote="131344430400000000" Dst="0" />
+<file name="class-employee.php" server="ftp.ezyro.com//htdocs/" local="131345021345722369" remote="131344430400000000" Dst="0" />
+<file name="class-entitlements-list-table.php" server="ftp.ezyro.com//htdocs/" local="131345021352071579" remote="131344430400000000" Dst="0" />
+<file name="class-form-handler.php" server="ftp.ezyro.com//htdocs/" local="131345021360051898" remote="131344430400000000" Dst="0" />
+<file name="class-hr-log.php" server="ftp.ezyro.com//htdocs/" local="131345021361347732" remote="131344430400000000" Dst="0" />
+<file name="class-leave-request-list-table.php" server="ftp.ezyro.com//htdocs/" local="131345021364274680" remote="131344430400000000" Dst="0" />
+<file name="class-settings.php" server="ftp.ezyro.com//htdocs/" local="131345021373630878" remote="131344430400000000" Dst="0" />
+<file name="class-walker-department.php" server="ftp.ezyro.com//htdocs/" local="131345021376300394" remote="131344430400000000" Dst="0" />
+<file name="functions-announcement.php" server="ftp.ezyro.com//htdocs/" local="131345021401104288" remote="131344430400000000" Dst="0" />
+<file name="functions-capabilities.php" server="ftp.ezyro.com//htdocs/" local="131345021401414492" remote="131344430400000000" Dst="0" />
+<file name="functions-dashboard-widgets.php" server="ftp.ezyro.com//htdocs/" local="131345021414474153" remote="131344430400000000" Dst="0" />
+<file name="functions-department.php" server="ftp.ezyro.com//htdocs/" local="131345021414704299" remote="131344430400000000" Dst="0" />
+<file name="functions-designation.php" server="ftp.ezyro.com//htdocs/" local="131345021414884436" remote="131344430400000000" Dst="0" />
+<file name="functions-reporting.php" server="ftp.ezyro.com//htdocs/" local="131345021427472779" remote="131344430400000000" Dst="0" />
+<file name="functions-employee.php" server="ftp.ezyro.com//htdocs/" local="131345021429695666" remote="131344430400000000" Dst="0" />
+<file name="functions-leave.php" server="ftp.ezyro.com//htdocs/" local="131345021433188065" remote="131344430400000000" Dst="0" />
+<file name="functions.php" server="ftp.ezyro.com//htdocs/" local="131345021441897845" remote="131344430400000000" Dst="0" />
+<file name="functions-url.php" server="ftp.ezyro.com//htdocs/" local="131345021441972918" remote="131344430400000000" Dst="0" />
+</dwsync>

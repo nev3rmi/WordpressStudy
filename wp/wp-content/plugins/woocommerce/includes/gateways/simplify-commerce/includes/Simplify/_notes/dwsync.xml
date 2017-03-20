@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessToken.php" server="ftp.ezyro.com//htdocs/" local="131345026472739638" remote="131344492200000000" Dst="0" />
+<file name="Authentication.php" server="ftp.ezyro.com//htdocs/" local="131345026485123962" remote="131344492200000000" Dst="0" />
+<file name="Authorization.php" server="ftp.ezyro.com//htdocs/" local="131345026485759589" remote="131344492200000000" Dst="0" />
+<file name="CardToken.php" server="ftp.ezyro.com//htdocs/" local="131345026486344976" remote="131344492200000000" Dst="0" />
+<file name="Constants.php" server="ftp.ezyro.com//htdocs/" local="131345026498019067" remote="131344492200000000" Dst="0" />
+<file name="Chargeback.php" server="ftp.ezyro.com//htdocs/" local="131345026498269218" remote="131344492200000000" Dst="0" />
+<file name="Coupon.php" server="ftp.ezyro.com//htdocs/" local="131345026500971589" remote="131344492200000000" Dst="0" />
+<file name="Customer.php" server="ftp.ezyro.com//htdocs/" local="131345026510217417" remote="131344492200000000" Dst="0" />
+<file name="Deposit.php" server="ftp.ezyro.com//htdocs/" local="131345026511092985" remote="131344492200000000" Dst="0" />
+<file name="Event.php" server="ftp.ezyro.com//htdocs/" local="131345026513479839" remote="131344492200000000" Dst="0" />
+<file name="Exceptions.php" server="ftp.ezyro.com//htdocs/" local="131345026522415557" remote="131344492200000000" Dst="0" />
+<file name="FraudCheck.php" server="ftp.ezyro.com//htdocs/" local="131345026525942466" remote="131344492200000000" Dst="0" />
+<file name="Http.php" server="ftp.ezyro.com//htdocs/" local="131345026527431351" remote="131344492200000000" Dst="0" />
+<file name="Invoice.php" server="ftp.ezyro.com//htdocs/" local="131345026537554809" remote="131344492200000000" Dst="0" />
+<file name="InvoiceItem.php" server="ftp.ezyro.com//htdocs/" local="131345026539856366" remote="131344492200000000" Dst="0" />
+<file name="Object.php" server="ftp.ezyro.com//htdocs/" local="131345026540111519" remote="131344492200000000" Dst="0" />
+<file name="Payment.php" server="ftp.ezyro.com//htdocs/" local="131345026552066670" remote="131344492200000000" Dst="0" />
+<file name="Plan.php" server="ftp.ezyro.com//htdocs/" local="131345026552421916" remote="131344492200000000" Dst="0" />
+<file name="PaymentsApi.php" server="ftp.ezyro.com//htdocs/" local="131345026552807161" remote="131344492200000000" Dst="0" />
+<file name="Refund.php" server="ftp.ezyro.com//htdocs/" local="131345026564377808" remote="131344492200000000" Dst="0" />
+<file name="ResourceList.php" server="ftp.ezyro.com//htdocs/" local="131345026564698029" remote="131344492200000000" Dst="0" />
+<file name="Subscription.php" server="ftp.ezyro.com//htdocs/" local="131345026565348467" remote="131344492200000000" Dst="0" />
+<file name="Tax.php" server="ftp.ezyro.com//htdocs/" local="131345026576780895" remote="131344492200000000" Dst="0" />
+<file name="TransactionReview.php" server="ftp.ezyro.com//htdocs/" local="131345026577311254" remote="131344492200000000" Dst="0" />
+<file name="Webhook.php" server="ftp.ezyro.com//htdocs/" local="131345026578111762" remote="131344492200000000" Dst="0" />
+</dwsync>

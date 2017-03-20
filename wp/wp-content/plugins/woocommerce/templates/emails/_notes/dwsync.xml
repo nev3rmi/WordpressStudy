@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="admin-cancelled-order.php" server="ftp.ezyro.com//htdocs/" local="131345026987347742" remote="131344492200000000" Dst="0" />
+<file name="admin-failed-order.php" server="ftp.ezyro.com//htdocs/" local="131345026996145540" remote="131344492200000000" Dst="0" />
+<file name="admin-new-order.php" server="ftp.ezyro.com//htdocs/" local="131345026998997687" remote="131344492200000000" Dst="0" />
+<file name="customer-completed-order.php" server="ftp.ezyro.com//htdocs/" local="131345027001569484" remote="131344492200000000" Dst="0" />
+<file name="customer-invoice.php" server="ftp.ezyro.com//htdocs/" local="131345027010468433" remote="131344492200000000" Dst="0" />
+<file name="customer-new-account.php" server="ftp.ezyro.com//htdocs/" local="131345027013779543" remote="131344492200000000" Dst="0" />
+<file name="customer-note.php" server="ftp.ezyro.com//htdocs/" local="131345027015918504" remote="131344492200000000" Dst="0" />
+<file name="customer-on-hold-order.php" server="ftp.ezyro.com//htdocs/" local="131345027022960694" remote="131344492200000000" Dst="0" />
+<file name="customer-processing-order.php" server="ftp.ezyro.com//htdocs/" local="131345027027649846" remote="131344492200000000" Dst="0" />
+<file name="customer-refunded-order.php" server="ftp.ezyro.com//htdocs/" local="131345027029325945" remote="131344492200000000" Dst="0" />
+<file name="customer-reset-password.php" server="ftp.ezyro.com//htdocs/" local="131345027035518386" remote="131344492200000000" Dst="0" />
+<file name="email-addresses.php" server="ftp.ezyro.com//htdocs/" local="131345027039993625" remote="131344492200000000" Dst="0" />
+<file name="email-customer-details.php" server="ftp.ezyro.com//htdocs/" local="131345027043664586" remote="131344492200000000" Dst="0" />
+<file name="email-footer.php" server="ftp.ezyro.com//htdocs/" local="131345027048476637" remote="131344492200000000" Dst="0" />
+<file name="email-header.php" server="ftp.ezyro.com//htdocs/" local="131345027052561812" remote="131344492200000000" Dst="0" />
+<file name="email-order-details.php" server="ftp.ezyro.com//htdocs/" local="131345027058116889" remote="131344492200000000" Dst="0" />
+<file name="email-order-items.php" server="ftp.ezyro.com//htdocs/" local="131345027061175796" remote="131344492200000000" Dst="0" />
+<file name="email-styles.php" server="ftp.ezyro.com//htdocs/" local="131345027065916576" remote="131344492200000000" Dst="0" />
+</dwsync>

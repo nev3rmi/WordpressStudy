@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BaseCommand.php" server="ftp.ezyro.com//htdocs/" local="131345022240229086" remote="131344430400000000" Dst="0" />
+<file name="InstallCommand.php" server="ftp.ezyro.com//htdocs/" local="131345022242985638" remote="131344430400000000" Dst="0" />
+<file name="MigrateCommand.php" server="ftp.ezyro.com//htdocs/" local="131345022247862071" remote="131344430400000000" Dst="0" />
+<file name="MigrateMakeCommand.php" server="ftp.ezyro.com//htdocs/" local="131345022253600869" remote="131344430400000000" Dst="0" />
+<file name="RefreshCommand.php" server="ftp.ezyro.com//htdocs/" local="131345022256067584" remote="131344430400000000" Dst="0" />
+<file name="ResetCommand.php" server="ftp.ezyro.com//htdocs/" local="131345022260905802" remote="131344430400000000" Dst="0" />
+<file name="RollbackCommand.php" server="ftp.ezyro.com//htdocs/" local="131345022266289368" remote="131344430400000000" Dst="0" />
+<file name="StatusCommand.php" server="ftp.ezyro.com//htdocs/" local="131345022269033729" remote="131344430400000000" Dst="0" />
+</dwsync>

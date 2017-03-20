@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BelongsTo.php" server="ftp.ezyro.com//htdocs/" local="131345022320286975" remote="131344430400000000" Dst="0" />
+<file name="HasMany.php" server="ftp.ezyro.com//htdocs/" local="131345022325795627" remote="131344430400000000" Dst="0" />
+<file name="BelongsToMany.php" server="ftp.ezyro.com//htdocs/" local="131345022326235918" remote="131344430400000000" Dst="0" />
+<file name="HasManyThrough.php" server="ftp.ezyro.com//htdocs/" local="131345022335567109" remote="131344430400000000" Dst="0" />
+<file name="HasOne.php" server="ftp.ezyro.com//htdocs/" local="131345022338113797" remote="131344430400000000" Dst="0" />
+<file name="HasOneOrMany.php" server="ftp.ezyro.com//htdocs/" local="131345022340330254" remote="131344430400000000" Dst="0" />
+<file name="MorphMany.php" server="ftp.ezyro.com//htdocs/" local="131345022349951644" remote="131344430400000000" Dst="0" />
+<file name="MorphOne.php" server="ftp.ezyro.com//htdocs/" local="131345022352243162" remote="131344430400000000" Dst="0" />
+<file name="MorphOneOrMany.php" server="ftp.ezyro.com//htdocs/" local="131345022352808544" remote="131344430400000000" Dst="0" />
+<file name="MorphTo.php" server="ftp.ezyro.com//htdocs/" local="131345022364636387" remote="131344430400000000" Dst="0" />
+<file name="MorphPivot.php" server="ftp.ezyro.com//htdocs/" local="131345022364916555" remote="131344430400000000" Dst="0" />
+<file name="MorphToMany.php" server="ftp.ezyro.com//htdocs/" local="131345022365336834" remote="131344430400000000" Dst="0" />
+<file name="Pivot.php" server="ftp.ezyro.com//htdocs/" local="131345022377229719" remote="131344430400000000" Dst="0" />
+<file name="Relation.php" server="ftp.ezyro.com//htdocs/" local="131345022377604978" remote="131344430400000000" Dst="0" />
+</dwsync>

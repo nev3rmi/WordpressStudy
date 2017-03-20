@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="empty-translation.mo" server="ftp.ezyro.com//htdocs/" local="131345023588107072" remote="131344430400000000" Dst="0" />
+<file name="empty-translation.po" server="ftp.ezyro.com//htdocs/" local="131345023591314198" remote="131344430400000000" Dst="0" />
+<file name="empty.csv" server="ftp.ezyro.com//htdocs/" local="131345023581291538" remote="131344430400000000" Dst="0" />
+<file name="empty.ini" server="ftp.ezyro.com//htdocs/" local="131345023588277192" remote="131344430400000000" Dst="0" />
+<file name="empty.json" server="ftp.ezyro.com//htdocs/" local="131345023593335619" remote="131344430400000000" Dst="0" />
+<file name="empty.mo" server="ftp.ezyro.com//htdocs/" local="131345023597263226" remote="131344430400000000" Dst="0" />
+<file name="empty.po" server="ftp.ezyro.com//htdocs/" local="131345023600390343" remote="131344430400000000" Dst="0" />
+<file name="empty.xlf" server="ftp.ezyro.com//htdocs/" local="131345023606538737" remote="131344430400000000" Dst="0" />
+<file name="empty.yml" server="ftp.ezyro.com//htdocs/" local="131345023611552059" remote="131344430400000000" Dst="0" />
+<file name="encoding.xlf" server="ftp.ezyro.com//htdocs/" local="131345023624691072" remote="131344430400000000" Dst="0" />
+<file name="escaped-id-plurals.po" server="ftp.ezyro.com//htdocs/" local="131345023630660007" remote="131344430400000000" Dst="0" />
+<file name="fuzzy-translations.po" server="ftp.ezyro.com//htdocs/" local="131345023636488965" remote="131344430400000000" Dst="0" />
+<file name="escaped-id.po" server="ftp.ezyro.com//htdocs/" local="131345023637109385" remote="131344430400000000" Dst="0" />
+<file name="invalid-xml-resources.xlf" server="ftp.ezyro.com//htdocs/" local="131345023642789464" remote="131344430400000000" Dst="0" />
+<file name="malformed.json" server="ftp.ezyro.com//htdocs/" local="131345023648688403" remote="131344430400000000" Dst="0" />
+<file name="messages.yml" server="ftp.ezyro.com//htdocs/" local="131345023652220721" remote="131344430400000000" Dst="0" />
+<file name="messages_linear.yml" server="ftp.ezyro.com//htdocs/" local="131345023654852464" remote="131344430400000000" Dst="0" />
+<file name="non-valid.xlf" server="ftp.ezyro.com//htdocs/" local="131345023660966855" remote="131344430400000000" Dst="0" />
+<file name="non-valid.yml" server="ftp.ezyro.com//htdocs/" local="131345023666175294" remote="131344430400000000" Dst="0" />
+<file name="plurals.mo" server="ftp.ezyro.com//htdocs/" local="131345023667311048" remote="131344430400000000" Dst="0" />
+<file name="plurals.po" server="ftp.ezyro.com//htdocs/" local="131345023673520165" remote="131344430400000000" Dst="0" />
+<file name="resname.xlf" server="ftp.ezyro.com//htdocs/" local="131345023679834354" remote="131344430400000000" Dst="0" />
+<file name="resources-2.0-clean.xlf" server="ftp.ezyro.com//htdocs/" local="131345023722342541" remote="131344430400000000" Dst="0" />
+<file name="resources-2.0.xlf" server="ftp.ezyro.com//htdocs/" local="131345023726105036" remote="131344430400000000" Dst="0" />
+<file name="resources-clean.xlf" server="ftp.ezyro.com//htdocs/" local="131345023728551657" remote="131344430400000000" Dst="0" />
+<file name="resources-target-attributes.xlf" server="ftp.ezyro.com//htdocs/" local="131345023734420797" remote="131344430400000000" Dst="0" />
+<file name="resources-tool-info.xlf" server="ftp.ezyro.com//htdocs/" local="131345023739994487" remote="131344430400000000" Dst="0" />
+<file name="resources.csv" server="ftp.ezyro.com//htdocs/" local="131345023742761311" remote="131344430400000000" Dst="0" />
+<file name="resources.dump.json" server="ftp.ezyro.com//htdocs/" local="131345023747809680" remote="131344430400000000" Dst="0" />
+<file name="resources.ini" server="ftp.ezyro.com//htdocs/" local="131345023753058150" remote="131344430400000000" Dst="0" />
+<file name="resources.json" server="ftp.ezyro.com//htdocs/" local="131345023755774939" remote="131344430400000000" Dst="0" />
+<file name="resources.mo" server="ftp.ezyro.com//htdocs/" local="131345023760663184" remote="131344430400000000" Dst="0" />
+<file name="resources.po" server="ftp.ezyro.com//htdocs/" local="131345023768798577" remote="131344430400000000" Dst="0" />
+<file name="resources.php" server="ftp.ezyro.com//htdocs/" local="131345023769253786" remote="131344430400000000" Dst="0" />
+<file name="resources.ts" server="ftp.ezyro.com//htdocs/" local="131345023774035436" remote="131344430400000000" Dst="0" />
+<file name="resources.xlf" server="ftp.ezyro.com//htdocs/" local="131345023781345278" remote="131344430400000000" Dst="0" />
+<file name="resources.yml" server="ftp.ezyro.com//htdocs/" local="131345023784808024" remote="131344430400000000" Dst="0" />
+<file name="valid.csv" server="ftp.ezyro.com//htdocs/" local="131345023785913743" remote="131344430400000000" Dst="0" />
+<file name="with-attributes.xlf" server="ftp.ezyro.com//htdocs/" local="131345023793608843" remote="131344430400000000" Dst="0" />
+<file name="withnote.xlf" server="ftp.ezyro.com//htdocs/" local="131345023798191887" remote="131344430400000000" Dst="0" />
+<file name="withdoctype.xlf" server="ftp.ezyro.com//htdocs/" local="131345023798316968" remote="131344430400000000" Dst="0" />
+</dwsync>

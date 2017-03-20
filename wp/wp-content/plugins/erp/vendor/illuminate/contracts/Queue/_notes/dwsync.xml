@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="EntityNotFoundException.php" server="ftp.ezyro.com//htdocs/" local="131345022062305950" remote="131344430400000000" Dst="0" />
+<file name="EntityResolver.php" server="ftp.ezyro.com//htdocs/" local="131345022065102833" remote="131344430400000000" Dst="0" />
+<file name="Factory.php" server="ftp.ezyro.com//htdocs/" local="131345022070116962" remote="131344430400000000" Dst="0" />
+<file name="Job.php" server="ftp.ezyro.com//htdocs/" local="131345022075453442" remote="131344430400000000" Dst="0" />
+<file name="Monitor.php" server="ftp.ezyro.com//htdocs/" local="131345022078000130" remote="131344430400000000" Dst="0" />
+<file name="Queue.php" server="ftp.ezyro.com//htdocs/" local="131345022082953412" remote="131344430400000000" Dst="0" />
+<file name="QueueableEntity.php" server="ftp.ezyro.com//htdocs/" local="131345022088542117" remote="131344430400000000" Dst="0" />
+<file name="ShouldBeQueued.php" server="ftp.ezyro.com//htdocs/" local="131345022091198875" remote="131344430400000000" Dst="0" />
+</dwsync>

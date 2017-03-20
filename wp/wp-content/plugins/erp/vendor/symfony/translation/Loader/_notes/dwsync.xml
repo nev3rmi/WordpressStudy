@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArrayLoader.php" server="ftp.ezyro.com//htdocs/" local="131345023298887969" remote="131344430400000000" Dst="0" />
+<file name="CsvFileLoader.php" server="ftp.ezyro.com//htdocs/" local="131345023304666807" remote="131344430400000000" Dst="0" />
+<file name="FileLoader.php" server="ftp.ezyro.com//htdocs/" local="131345023312582044" remote="131344430400000000" Dst="0" />
+<file name="IcuDatFileLoader.php" server="ftp.ezyro.com//htdocs/" local="131345023315183774" remote="131344430400000000" Dst="0" />
+<file name="IcuResFileLoader.php" server="ftp.ezyro.com//htdocs/" local="131345023317580547" remote="131344430400000000" Dst="0" />
+<file name="IniFileLoader.php" server="ftp.ezyro.com//htdocs/" local="131345023327087417" remote="131344430400000000" Dst="0" />
+<file name="JsonFileLoader.php" server="ftp.ezyro.com//htdocs/" local="131345023329569050" remote="131344430400000000" Dst="0" />
+<file name="LoaderInterface.php" server="ftp.ezyro.com//htdocs/" local="131345023329934308" remote="131344430400000000" Dst="0" />
+<file name="PhpFileLoader.php" server="ftp.ezyro.com//htdocs/" local="131345023341857211" remote="131344430400000000" Dst="0" />
+<file name="MoFileLoader.php" server="ftp.ezyro.com//htdocs/" local="131345023342167410" remote="131344430400000000" Dst="0" />
+<file name="PoFileLoader.php" server="ftp.ezyro.com//htdocs/" local="131345023344694098" remote="131344430400000000" Dst="0" />
+<file name="QtFileLoader.php" server="ftp.ezyro.com//htdocs/" local="131345023353910274" remote="131344430400000000" Dst="0" />
+<file name="XliffFileLoader.php" server="ftp.ezyro.com//htdocs/" local="131345023354861491" remote="131344430400000000" Dst="0" />
+<file name="YamlFileLoader.php" server="ftp.ezyro.com//htdocs/" local="131345023357112977" remote="131344430400000000" Dst="0" />
+</dwsync>

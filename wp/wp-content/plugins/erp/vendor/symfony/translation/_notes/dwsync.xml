@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CHANGELOG.md" server="ftp.ezyro.com//htdocs/" local="131345023163040132" remote="131344430400000000" Dst="0" />
+<file name="DataCollectorTranslator.php" server="ftp.ezyro.com//htdocs/" local="131345023190063107" remote="131344430400000000" Dst="0" />
+<file name="IdentityTranslator.php" server="ftp.ezyro.com//htdocs/" local="131345023285587234" remote="131344430400000000" Dst="0" />
+<file name="Interval.php" server="ftp.ezyro.com//htdocs/" local="131345023292377181" remote="131344430400000000" Dst="0" />
+<file name="LICENSE" server="ftp.ezyro.com//htdocs/" local="131345023300123776" remote="131344430400000000" Dst="0" />
+<file name="LoggingTranslator.php" server="ftp.ezyro.com//htdocs/" local="131345023387708324" remote="131344430400000000" Dst="0" />
+<file name="MessageCatalogue.php" server="ftp.ezyro.com//htdocs/" local="131345023391230660" remote="131344430400000000" Dst="0" />
+<file name="MessageCatalogueInterface.php" server="ftp.ezyro.com//htdocs/" local="131345023393412115" remote="131344430400000000" Dst="0" />
+<file name="MessageSelector.php" server="ftp.ezyro.com//htdocs/" local="131345023400116552" remote="131344430400000000" Dst="0" />
+<file name="MetadataAwareInterface.php" server="ftp.ezyro.com//htdocs/" local="131345023405169901" remote="131344430400000000" Dst="0" />
+<file name="PluralizationRules.php" server="ftp.ezyro.com//htdocs/" local="131345023406335690" remote="131344430400000000" Dst="0" />
+<file name="README.md" server="ftp.ezyro.com//htdocs/" local="131345023415371675" remote="131344430400000000" Dst="0" />
+<file name="Translator.php" server="ftp.ezyro.com//htdocs/" local="131345023810204865" remote="131344430400000000" Dst="0" />
+<file name="TranslatorBagInterface.php" server="ftp.ezyro.com//htdocs/" local="131345023813587094" remote="131344430400000000" Dst="0" />
+<file name="TranslatorInterface.php" server="ftp.ezyro.com//htdocs/" local="131345023813955544" remote="131344430400000000" Dst="0" />
+<file name="composer.json" server="ftp.ezyro.com//htdocs/" local="131345023829746010" remote="131344430400000000" Dst="0" />
+<file name="phpunit.xml.dist" server="ftp.ezyro.com//htdocs/" local="131345023837956480" remote="131344430400000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConnectionFactory.php" server="ftp.ezyro.com//htdocs/" local="131345022207631943" remote="131344430400000000" Dst="0" />
+<file name="Connector.php" server="ftp.ezyro.com//htdocs/" local="131345022212887585" remote="131344430400000000" Dst="0" />
+<file name="ConnectorInterface.php" server="ftp.ezyro.com//htdocs/" local="131345022216511990" remote="131344430400000000" Dst="0" />
+<file name="MySqlConnector.php" server="ftp.ezyro.com//htdocs/" local="131345022222070691" remote="131344430400000000" Dst="0" />
+<file name="PostgresConnector.php" server="ftp.ezyro.com//htdocs/" local="131345022226018312" remote="131344430400000000" Dst="0" />
+<file name="SQLiteConnector.php" server="ftp.ezyro.com//htdocs/" local="131345022228815163" remote="131344430400000000" Dst="0" />
+<file name="SqlServerConnector.php" server="ftp.ezyro.com//htdocs/" local="131345022234804155" remote="131344430400000000" Dst="0" />
+</dwsync>
